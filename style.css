@@ -6,6 +6,7 @@ GLOBAL
 body{
     background-color: #F3DFC1;
     color:#1a1c1a;
+    line-height: 2.5em;
 }
 
 
@@ -33,4 +34,7 @@ HOME
 }
 .darker{
    background-color:#F3CEA1 ; 
+}
+.lighter{
+    background-color: #F3DFC1;
 }
